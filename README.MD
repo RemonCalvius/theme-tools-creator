@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RemonCalvius/theme-tools-creator">
-    <img src="img/Logo.jpg" alt="Logo" width="300" height="300">
+    <img src="Logo.jpg" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Cool Tools</h3>
@@ -33,25 +33,25 @@
 ## Periview
 <p>Bloody</p>
 
-![6](img/Bloody.jpg) 
+![6](Bloody.jpg) 
 <p>Slant</p>
 
-![1](img/slant.jpg) 
+![1](Slant.jpg) 
  <p>Larry 3D</p>
 
-![2](img/Larry 3D.jpg) 
+![2](Larry 3D.jpg) 
  <p>Caligraphy</p>
 
-![3](img/Caligraphy.jpg) 
+![3](Caligraphy.jpg) 
  <p>Small</p>
 
-![4](img/Small.jpg) 
+![4](Small.jpg) 
  <p>Univers</p>
 
-![5](img/Univers.jpg) 
+![5](Univers.jpg) 
 <p>Isometric1</p>
 
-![7](img/Isometric1.jpg)
+![7](Isometric1.jpg)
  
 
 
