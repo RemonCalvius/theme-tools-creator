@@ -55,7 +55,7 @@
  
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -63,7 +63,6 @@
 
 * Nodejs
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -83,7 +82,6 @@
    node  .
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -96,7 +94,7 @@
     - [+] English
     - [+] Indonesian
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
