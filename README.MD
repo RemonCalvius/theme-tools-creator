@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RemonCalvius/theme-tools-creator">
-    <img src="Logo.jpg" alt="Logo" width="300" height="300">
+    <img src="Logo.jpg" alt="Logo">
   </a>
 
   <h3 align="center">Cool Tools</h3>
