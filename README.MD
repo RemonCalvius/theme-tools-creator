@@ -39,7 +39,7 @@
 ![1](Slant.jpg) 
  <p>Larry 3D</p>
 
-![2](Larry 3D.jpg) 
+![2](Larry3D.jpg) 
  <p>Caligraphy</p>
 
 ![3](Caligraphy.jpg) 
